@@ -1,8 +1,5 @@
 # Algorithmic Trading
 
-## Team:
-@Lin C., @Somya Dwivedi, @Varada.B, @Garima Sharma, @Gayathri Rajan, @tejas, @Varsha.Gore, @Akhilesh, @Lamiae Hana
-
 ![github-small](https://content.fortune.com/wp-content/uploads/2019/10/GettyImages-1158402857.jpg?resize=750,500)
 
 ## Problem Statement
